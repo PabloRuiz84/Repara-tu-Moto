@@ -1,8 +1,8 @@
-# 🏍️ Repara-tu-Moto
+# 🏍️ Repara Tu Moto
 
 > **Diagnostica y repara personalmente tu moto sin necesidad de ir al mecánico**
 
-Repara-tu-Moto es una aplicación inteligente impulsada por IA que proporciona diagnósticos automáticos, guías de reparación paso a paso y consejos de mantenimiento personalizado para tu motocicleta.
+Repara Tu Moto es una aplicación inteligente impulsada por IA que proporciona diagnósticos automáticos, guías de reparación paso a paso y consejos de mantenimiento personalizado para tu motocicleta.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-Active-green.svg)]()
@@ -11,6 +11,7 @@ Repara-tu-Moto es una aplicación inteligente impulsada por IA que proporciona d
 
 ## 📋 Tabla de Contenidos
 
+- [Dónde Descargar](#-dónde-descargar)
 - [Características Principales](#características-principales)
 - [Cómo Funciona](#cómo-funciona)
 - [Stack Tecnológico](#stack-tecnológico)
@@ -23,7 +24,70 @@ Repara-tu-Moto es una aplicación inteligente impulsada por IA que proporciona d
 
 ---
 
-## 🚀 Características Principales
+## 📲 **Dónde Descargar**
+
+### 🌐 Acceso Rápido a la Aplicación
+
+<div align="center">
+
+### **Web App**
+🔗 **[Abrir Repara Tu Moto](https://reparatumoto.app)**
+
+**O escanea el código QR:**
+
+```
+┌─────────────────────────────────┐
+│                                 │
+│  [Código QR aquí]               │
+│  https://reparatumoto.app       │
+│                                 │
+└─────────────────────────────────┘
+```
+
+*Funciona en cualquier navegador - Web, Tablet o Celular*
+
+---
+
+### 📱 **Descargar como App Móvil**
+
+| Plataforma | Link | Método |
+|-----------|------|--------|
+| 🍎 **iOS** | [App Store](https://apps.apple.com/app/reparatumoto) | Directo desde AppStore |
+| 🤖 **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.reparatumoto) | Directo desde Play Store |
+| 📱 **Web App** | [reparatumoto.app](https://reparatumoto.app) | Instalar en pantalla principal |
+
+---
+
+### 🔗 **Link Central para Redes Sociales**
+
+**Comparte este link en tu bio:**
+```
+https://linktr.ee/reparatumoto
+```
+
+O accede directamente:
+- 📘 Facebook: [facebook.com/reparatumoto](https://facebook.com/reparatumoto)
+- 📸 Instagram: [@reparatumoto](https://instagram.com/reparatumoto)
+- ▶️ YouTube: [youtube.com/@reparatumoto](https://youtube.com/@reparatumoto)
+- 🐦 Twitter: [@reparatumoto](https://twitter.com/reparatumoto)
+- 💬 WhatsApp: [Chat directo](https://wa.me/584128295185)
+
+---
+
+### 📧 **Contacto Principal**
+
+```
+📱 WhatsApp:      +58 412-829-5185
+📧 Email:         contacto@reparatumoto.app
+🌐 Sitio Web:     https://reparatumoto.app
+📍 Ubicación:     Venezuela
+```
+
+</div>
+
+---
+
+## 🚀 **Características Principales**
 
 ### ✨ **Diagnósticos Inteligentes**
 - Análisis automático de síntomas reportados
@@ -55,7 +119,7 @@ Repara-tu-Moto es una aplicación inteligente impulsada por IA que proporciona d
 
 ---
 
-## 🤖 Cómo Funciona
+## 🤖 **Cómo Funciona**
 
 El sistema utiliza **Inteligencia Artificial** para proporcionar diagnósticos confiables y guías personalizadas:
 
@@ -94,7 +158,7 @@ Ejecuta las soluciones recomendadas con confianza
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ **Stack Tecnológico**
 
 | Componente | Tecnología |
 |-----------|-----------|
@@ -103,10 +167,11 @@ Ejecuta las soluciones recomendadas con confianza
 | **Frontend** | Interfaz web/móvil responsive e intuitiva |
 | **Base de Datos** | Almacenamiento de historiales y reportes de reparación |
 | **Seguridad** | Encriptación de datos sensibles |
+| **Hosting** | Vercel + Dominio personalizado (reparatumoto.app) |
 
 ---
 
-## 📖 Guía de Uso
+## 📖 **Guía de Uso**
 
 ### Pasos Básicos
 
@@ -134,11 +199,11 @@ Ejecuta las soluciones recomendadas con confianza
 
 ---
 
-## 💡 Ejemplos de Uso
+## 💡 **Ejemplos de Uso**
 
 ### Ejemplo 1: Problema de Arranque
 ```
-Síntoma: "Mi moto no arranca cuando la lluvia"
+Síntoma: "Mi moto no arranca cuando llueve"
 Información: Honda CB125R, 2022
 Resultado: Diagnóstico de humedad en bujías y cables
 Solución: Guía para secar y revisar sistema de ignición
@@ -154,7 +219,7 @@ Solución: Pasos para limpiar y ajustar correctamente
 
 ### Ejemplo 3: Vibraciones Anormales
 ```
-Síntoma: "La moto vibra cuando aceleró"
+Síntoma: "La moto vibra cuando acelero"
 Información: Bajaj Pulsar, 2019
 Resultado: Identificación de cadena destensada
 Solución: Guía para ajustar tensión de cadena
@@ -162,7 +227,7 @@ Solución: Guía para ajustar tensión de cadena
 
 ---
 
-## 🔒 Seguridad y Privacidad
+## 🔒 **Seguridad y Privacidad**
 
 - Tus datos personales están protegidos
 - Los historiales de reparación son privados
@@ -171,15 +236,15 @@ Solución: Guía para ajustar tensión de cadena
 
 ---
 
-## 💬 Soporte y Contacto
+## 💬 **Soporte y Contacto**
 
-### 📱 Atención Personalizada Vía Telefónica
+### 📱 **Atención Personalizada Vía Telefónica**
 
 ¿Necesitas asesoría técnica personalizada directamente con un experto? Ofrecemos soporte por teléfono a través de **Pago Móvil**.
 
 ---
 
-## 💳 Datos de Pago Móvil para Atención Personalizada
+## 💳 **Datos de Pago Móvil para Atención Personalizada**
 
 ```
 ┌─────────────────────────────────────────┐
@@ -198,7 +263,7 @@ Solución: Guía para ajustar tensión de cadena
 
 ---
 
-### ✅ Cómo Contratar el Servicio
+### ✅ **Cómo Contratar el Servicio**
 
 **Paso 1: Realiza el Pago por Pago Móvil**
 - Abre tu aplicación bancaria (Pago Móvil)
@@ -209,7 +274,7 @@ Solución: Guía para ajustar tensión de cadena
 
 **Paso 2: Envía el Comprobante**
 - Captura una foto clara del comprobante o recibo
-- Envía el capture por **WhatsApp o SMS** al: **📞 +58 412-829-5185**
+- Envía el comprobante por **WhatsApp o SMS** al: **📞 +58 412-829-5185**
 - Incluye tu nombre y el tipo de consulta
 
 **Paso 3: Recibe Confirmación**
@@ -219,7 +284,7 @@ Solución: Guía para ajustar tensión de cadena
 
 ---
 
-### 📞 Información de Contacto Rápida
+### 📞 **Información de Contacto Rápida**
 
 | Dato | Información |
 |------|-------------|
@@ -228,10 +293,12 @@ Solución: Guía para ajustar tensión de cadena
 | **Teléfono de Pago** | +58 412-829-5185 |
 | **Monto por Consulta** | $5 USD |
 | **Duración** | ~30 minutos |
+| **Email** | contacto@reparatumoto.app |
+| **Web** | https://reparatumoto.app |
 
 ---
 
-### ⏳ Tiempo de Respuesta
+### ⏳ **Tiempo de Respuesta**
 
 - ✅ Verificación de pago: **5-10 minutos**
 - ✅ Coordinación de cita: **24 horas máximo**
@@ -239,7 +306,7 @@ Solución: Guía para ajustar tensión de cadena
 
 ---
 
-## ⚠️ Descargo de Responsabilidad
+## ⚠️ **Descargo de Responsabilidad**
 
 **IMPORTANTE**: Este proyecto es una **herramienta de asistencia educativa y de referencia**.
 
@@ -253,13 +320,13 @@ Solución: Guía para ajustar tensión de cadena
 
 ---
 
-## 📄 Licencia
+## 📄 **Licencia**
 
 Este proyecto está bajo la licencia **MIT**. Ver [LICENSE](LICENSE) para más detalles.
 
 ---
 
-## 🙏 Contribuciones
+## 🙏 **Contribuciones**
 
 ¿Tienes sugerencias para mejorar? ¡Nos encantaría escucharte!
 
@@ -269,9 +336,9 @@ Este proyecto está bajo la licencia **MIT**. Ver [LICENSE](LICENSE) para más d
 
 ---
 
-## 🌟 Reconocimientos
+## 🌟 **Reconocimientos**
 
-Gracias por usar Repara-tu-Moto. Esperamos ayudarte a mantener tu moto en perfecto estado.
+Gracias por usar Repara Tu Moto. Esperamos ayudarte a mantener tu moto en perfecto estado.
 
 ---
 
@@ -280,5 +347,7 @@ Gracias por usar Repara-tu-Moto. Esperamos ayudarte a mantener tu moto en perfec
 **Repara tu moto de forma inteligente con IA** 🏍️⚡
 
 *Mantén tu moto en perfecto estado sin costosas visitas al mecánico*
+
+[🌐 Abrir Repara Tu Moto](https://reparatumoto.app) | [💬 WhatsApp](https://wa.me/584128295185) | [📧 Contacto](mailto:contacto@reparatumoto.app)
 
 </div>
